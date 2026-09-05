@@ -1,0 +1,10 @@
+#env
+*.env
+
+#environments
+.venv/
+venv/
+ENV/
+env/
+
+langchain
